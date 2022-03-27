@@ -26,4 +26,4 @@ for element in selection:
         print element.Category.Name, ' - нет параметра "Длина"'
 
 print '- - - - - - - - - - - - - '
-print sum_length
+print sum_length, ' м.'
